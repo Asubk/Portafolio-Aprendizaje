@@ -18,3 +18,4 @@ Usé el comando de "fuerza":
 
 **Aprendizaje:** El comando `--force` sobreescribe el contenido del servidor con lo que tienes en tu computadora. 
 > **⚠️ Nota:** Solo usar en proyectos personales o cuando estás seguro de que lo que está en la nube no sirve, ya que borra el historial previo de GitHub.
+
